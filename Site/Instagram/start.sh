@@ -1,5 +1,5 @@
 #!/bin/bash|
-#Code:xBowtie
+#Code:azatbgrhn
 
 clear
 
@@ -22,7 +22,7 @@ echo -e "\033[31;40;1m
 \e[31m[00]\e[37m Menü
 \e[31m[99]\e[37m Exit
 "
-echo -e "\033[32;40;1m                      ~~~xBowtie~~~"
+echo -e "\033[32;40;1m                      ~~~azatbgrhn~~~"
 echo ""
 read -p "İslem Numarası : " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
