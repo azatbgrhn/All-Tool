@@ -3,7 +3,7 @@ clear
 echo -e  "
 
 
-\e[35m     ((( #xBowtie  #xBowtie )))
+\e[35m     ((( #azatbgrhn  #azatbgrhn )))
 
 
 "
