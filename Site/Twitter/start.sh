@@ -1,11 +1,11 @@
 !/bin/bash
 
-#Code:Yaman xBowtie
+#Code:azatbgrhn
 clear
 echo -e  "
 
 
-\e[35m     ((( #xBowtie)))
+\e[35m     ((( #azatbgrhn)))
 
 
 
@@ -42,7 +42,7 @@ cd ..
 cd ..
 bash tst.sh
 elif [[ $islem == 9 || $islem == 99 ]]; then
-echo -e "\e[31mxBowtie :)) ßß"
+echo -e "\e[31mazatbgrhn :)) ßß"
 sleep 1
 clear
 exit 1
