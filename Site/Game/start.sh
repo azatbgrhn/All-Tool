@@ -70,7 +70,7 @@ cd ..
 bash tst.sh
 elif [[ $islem == 9 || $islem == 99 ]]; then
 clear
-echo -e "\e[31mxBowtie :)) ßß"
+echo -e "\e[31mazatbgrhn :)) ßß"
 exit 1
 else
 echo ""
