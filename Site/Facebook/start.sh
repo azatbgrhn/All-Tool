@@ -3,12 +3,12 @@ start.sh
 
 #!/bin/bash
 
-#Code:xBowtie
+#Code:azatbgrhn
 clear
 echo -e  "
 
 
-\e[35m     ((( #xbowtie Timi  #xbowtie )))
+\e[35m     ((( azatbgrhn )))
 
 
 
