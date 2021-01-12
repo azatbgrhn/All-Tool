@@ -45,7 +45,7 @@ cd ..
 bash tst.sh
 elif [[ $islem == 9 || $islem == 99 ]]; then
 clear
-echo -e "\e[31mTürk Siber Timi İyi Günler Diler :)) ßß"
+echo -e "\e[31mazatbgrhn İyi Günler Diler :)) ßß"
 clear
 sleep 1
 exit 1
