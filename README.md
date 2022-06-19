@@ -1,20 +1,15 @@
-# All-Tool
-
-azatbgrhn
-
+# azatbgrhn
 azatbgrhn, Türk Yapımı Ngrok destekli Phishing Toolu.
 
+<h1>Termux Phishing Tool</h1>
 
-Termux Phishing Tool
-
-NOT:Bu araç eğitim amaçlı hazırlandı.Aracın kullanımda meydana gelicek hiç bir şey sorumluluğumda değildir!
-Kullanımı
-
-
-git clone https://github.com/xbowtie/All-Tool/
-
-cd Turk-Sploit/
-
-bash requirements.sh
-
-bash tst.sh
+<h2><strong>NOT:<i>Bu araç eğitim amaçlı hazırlandı.Aracın kullanımda meydana gelicek hiç bir şey sorumluluğumda değildir!</i><strong></h2>
+	
+	
+<b>  Kullanımı</b>
+<h3>
+git clone https://github.com/xbowtie/All-Tool/<br>
+cd Turk-Sploit/<br>
+bash requirements.sh<br>
+bash tst.sh<br>
+<h3>        
