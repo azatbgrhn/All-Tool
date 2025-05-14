@@ -8,7 +8,7 @@ azatbgrhn, Türk Yapımı Ngrok destekli Phishing Toolu.
 	
 <b>  Kullanımı</b>
 <h3>
-git clone https://github.com/xbowtie/All-Tool/<br>
+git clone https://github.com/azatbgrhn/All-Tool/<br>
 cd Turk-Sploit/<br>
 bash requirements.sh<br>
 bash tst.sh<br>
